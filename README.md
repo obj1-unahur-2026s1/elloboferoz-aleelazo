@@ -2,7 +2,7 @@
 
 <img src="caperucita.jpg" alt="caperucita y el lobo" width="200" height="200" />
 
-Feroz, el lobo, se siente desnutrido y famélico y quiere un sistema para simular sus actividades diarias. Quiere mejorar su estado de salud, comiendo saludable y a la vez haciendo ejercicio para no excederse en su peso. 
+Feroz, el lobo, se siente desnutrido y famélico y quiere un sistema para simular sus actividades diarias. Quiere mejorar su estado de salud, comiendo saludable y a la vez haciendo ejercicio para no excederse en su peso.  
 
 ## Requerimientos básicos:
 
